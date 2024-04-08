@@ -1,0 +1,42 @@
+C:\Users\Intel NUC\OneDrive\Desktop\Gnel\Portfolio\Portfolio\bin\Debug\net6.0\Portfolio.exe
+C:\Users\Intel NUC\OneDrive\Desktop\Gnel\Portfolio\Portfolio\bin\Debug\net6.0\Portfolio.deps.json
+C:\Users\Intel NUC\OneDrive\Desktop\Gnel\Portfolio\Portfolio\bin\Debug\net6.0\Portfolio.runtimeconfig.json
+C:\Users\Intel NUC\OneDrive\Desktop\Gnel\Portfolio\Portfolio\bin\Debug\net6.0\Portfolio.dll
+C:\Users\Intel NUC\OneDrive\Desktop\Gnel\Portfolio\Portfolio\bin\Debug\net6.0\Portfolio.pdb
+C:\Users\Intel NUC\OneDrive\Desktop\Gnel\Portfolio\Portfolio\bin\Debug\net6.0\Xamarin.Forms.Core.dll
+C:\Users\Intel NUC\OneDrive\Desktop\Gnel\Portfolio\Portfolio\bin\Debug\net6.0\Xamarin.Forms.Platform.dll
+C:\Users\Intel NUC\OneDrive\Desktop\Gnel\Portfolio\Portfolio\bin\Debug\net6.0\Xamarin.Forms.Xaml.dll
+C:\Users\Intel NUC\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\Portfolio.csproj.AssemblyReference.cache
+C:\Users\Intel NUC\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intel NUC\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\MainPage.xaml.g.cs
+C:\Users\Intel NUC\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\Portfolio.AssemblyInfoInputs.cache
+C:\Users\Intel NUC\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\Portfolio.AssemblyInfo.cs
+C:\Users\Intel NUC\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\Intel NUC\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\XamlC.stamp
+C:\Users\Intel NUC\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\Portfolio.csproj.CopyComplete
+C:\Users\Intel NUC\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\Portfolio.dll
+C:\Users\Intel NUC\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\refint\Portfolio.dll
+C:\Users\Intel NUC\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\Portfolio.pdb
+C:\Users\Intel NUC\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\Portfolio.genruntimeconfig.cache
+C:\Users\Intel NUC\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\ref\Portfolio.dll
+C:\Users\gnalo\OneDrive\Desktop\Gnel\Portfolio\Portfolio\bin\Debug\net6.0\Portfolio.exe
+C:\Users\gnalo\OneDrive\Desktop\Gnel\Portfolio\Portfolio\bin\Debug\net6.0\Portfolio.deps.json
+C:\Users\gnalo\OneDrive\Desktop\Gnel\Portfolio\Portfolio\bin\Debug\net6.0\Portfolio.runtimeconfig.json
+C:\Users\gnalo\OneDrive\Desktop\Gnel\Portfolio\Portfolio\bin\Debug\net6.0\Portfolio.dll
+C:\Users\gnalo\OneDrive\Desktop\Gnel\Portfolio\Portfolio\bin\Debug\net6.0\Portfolio.pdb
+C:\Users\gnalo\OneDrive\Desktop\Gnel\Portfolio\Portfolio\bin\Debug\net6.0\Xamarin.Forms.Core.dll
+C:\Users\gnalo\OneDrive\Desktop\Gnel\Portfolio\Portfolio\bin\Debug\net6.0\Xamarin.Forms.Platform.dll
+C:\Users\gnalo\OneDrive\Desktop\Gnel\Portfolio\Portfolio\bin\Debug\net6.0\Xamarin.Forms.Xaml.dll
+C:\Users\gnalo\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\Portfolio.csproj.AssemblyReference.cache
+C:\Users\gnalo\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gnalo\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\MainPage.xaml.g.cs
+C:\Users\gnalo\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\Portfolio.AssemblyInfoInputs.cache
+C:\Users\gnalo\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\Portfolio.AssemblyInfo.cs
+C:\Users\gnalo\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\gnalo\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\XamlC.stamp
+C:\Users\gnalo\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\Portfolio.csproj.Up2Date
+C:\Users\gnalo\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\Portfolio.dll
+C:\Users\gnalo\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\refint\Portfolio.dll
+C:\Users\gnalo\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\Portfolio.pdb
+C:\Users\gnalo\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\Portfolio.genruntimeconfig.cache
+C:\Users\gnalo\OneDrive\Desktop\Gnel\Portfolio\Portfolio\obj\Debug\net6.0\ref\Portfolio.dll
